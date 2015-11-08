@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "org.mybatis" % "mybatis" % "3.3.0",
   "org.mybatis" % "mybatis-guice" % "3.6",
   "com.google.inject.extensions" % "guice-multibindings" % "4.0",
-
+"mysql" % "mysql-connector-java" % "5.1.18",
   // Other dependencies not mentioned in the article
   
   // For demonstration purposes we are using a more lightweight DB instead

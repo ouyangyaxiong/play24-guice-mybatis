@@ -14,6 +14,7 @@
   -->
   <logger name="play" level="INFO" />
   <logger name="application" level="DEBUG" />
+  <!-- 输出mapper的sql日志 -->
   <logger name="service.UserMapper" level="DEBUG" />
 
   <root level="ERROR">
